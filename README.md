@@ -4,6 +4,24 @@ Hello i'm Md Mostakim Hosen.
 
 </p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const mostakim = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, Node, Storybook, Styled-Components],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+
 <img src="https://i.postimg.cc/3JQWhqf9/generated-image-876bc96e-5925-423b-a10a-43b2ccf152ca.png" alt="Banner"  width="100%" height="auto" />
 
 ## 🌐 Socials:
