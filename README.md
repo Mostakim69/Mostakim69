@@ -21,7 +21,7 @@ const mostakim = {
 ```
 
 
-<img src="https://i.postimg.cc/C1mGGCQn/Blue-and-White-Modern-Minimalist-Entrepreneur-Linked-In-Article-Cover-Image-1.png" alt="Banner"  width="100%" height="auto" />
+<img src="https://i.postimg.cc/bvR5Q4QY/Whats-App-Image-2025-06-26-at-8-36-49-PM.jpg" alt="Banner"  width="100%" height="auto" />
 
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmostakimhosen35@gmail.com) 
