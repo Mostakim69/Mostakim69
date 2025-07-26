@@ -12,9 +12,9 @@ const mostakim = {
   tools: [React, Node, Storybook, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "PosterPython",
+                        coorganizer: "PosterBoy",
                         speaker: "PosterBoy",
-                        mentor: "EducaPosterBoy"
+                        mentor: "PosterBoy"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
