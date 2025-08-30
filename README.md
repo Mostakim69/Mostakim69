@@ -2,7 +2,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mostakim69&label=Mostakim%20Total%20GitHub%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Mostakim Total Github profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mostakim69&label=Mostakim%GitHub%2020Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Mostakim Total Github profile views" />
 </p>
 
 
