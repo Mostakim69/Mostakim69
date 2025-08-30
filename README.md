@@ -17,10 +17,10 @@ My journey has already started. I actively help friends, batchmates, and juniors
 
 🤝 What I’m Looking For:
 I’m actively looking for opportunities where I can:
-• Work in a collaborative team to build real-world web applications
-• Join as a Frontend Developer Intern or Junior Developer
-• Contribute to open-source projects and learn from experienced engineers
-• Explore remote opportunities that challenge and grow my skills
+<li> Work in a collaborative team to build real-world web applications </li> 
+<li> Join as a Frontend Developer Intern or Junior Developer </li> 
+<li> Contribute to open-source projects and learn from experienced engineers </li> 
+<li> Explore remote opportunities that challenge and grow my skills </li> 
 
 🧠 My Personality in Work:
 ✔️ Fast learner with a growth mindset
