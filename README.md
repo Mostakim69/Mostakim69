@@ -31,10 +31,10 @@ If you're looking for a developer who is technically skilled, a fast learner, a 
 
 🚀 I'm open to remote roles, internships, freelance, and collaborations that challenge me and help me grow.
 📩 Contact Info
-<li> ● 📧 Email: mdmostakimhosen35@gmail.com </li>  
-<li> ● 💬 WhatsApp: wa.me/8801821023369 </li>
-<li> ● 🌐 Portfolio: https://mostakim-hosen-portfolio.web.app/ </li>
-<li> ● 💼 LinkedIn: https://github.com/Mostakim69 </li>
+<li> 📧 Email: mdmostakimhosen35@gmail.com </li>  
+<li> 💬 WhatsApp: wa.me/8801821023369 </li>
+<li> 🌐 Portfolio: https://mostakim-hosen-portfolio.web.app/ </li>
+<li> 💼 LinkedIn: https://www.linkedin.com/in/mostakim-hosen9/ </li>
 
 🙂 Thank you for taking the time to read about me. Let’s connect, collaborate, and grow together!
 
