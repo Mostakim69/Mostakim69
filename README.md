@@ -102,7 +102,7 @@ const mostakim = {
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mostakim69&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 🚀 Projects by [https://github.com/Mostakim69/TourNest-BD) &nbsp; ![GitHub](https://img.shields.io/github/followers/shahjalal-labs?label=Follow&style=social)
+## 🚀 Projects by [https://github.com/Mostakim69/TourNest-BD) &nbsp; ![GitHub](https://img.shields.io/github/followers/mostakim69?label=Follow&style=social)
 
 Not just apps. These are **real-world platforms**—architected for scale, designed for humans, and built using the **power of MERN** 🚀
 
