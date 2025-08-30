@@ -102,6 +102,29 @@ const mostakim = {
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mostakim69&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+## 🚀 Projects by [https://github.com/Mostakim69/TourNest-BD) &nbsp; ![GitHub](https://img.shields.io/github/followers/shahjalal-labs?label=Follow&style=social)
+
+Not just apps. These are **real-world platforms**—architected for scale, designed for humans, and built using the **power of MERN** 🚀
+
+Every line of code, every animation, and every decision reflects a developer obsessed with quality, experience, and impact. 🚀✨
+
+---
+
+### 🌍🌟 Tournest BD — Tourism Management System 🇧🇩 🗺️
+
+> The Tourist Guide is an online platform offering detailed information on Bangladesh’s top destinations. From famous landmarks to hidden gems, it helps travelers plan effectively with insights on attractions, culture, cuisine, and activities — making every trip memorable.
+
+🔗 [Live Site](https://tour-nest-bd.web.app/)  
+📦 [Client Code](https://github.com/Mostakim69/TourNest-BD)  
+📦 [Server Code](https://github.com/Mostakim69/TourNest-BD-Server)  
+ <br />
+🛠 **Tech Stack:**  
+`React.js` • `Node.js` • `MongoDB` • `Firebase` • `Stripe` • `Tailwind CSS` • `TanStack Query` • `JWT` • `Framer Motion`
+
+![TourNes BD](https://i.postimg.cc/c1FVrTm4/Screenshot-2025-08-30-182451.png)
+
+---
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/test)
   
