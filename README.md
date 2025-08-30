@@ -1,7 +1,42 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me.....  
 
-Hello i'm Md Mostakim Hosen.
-<p>I'm a passionate Frontend Developer with a strong focus on creating clean, responsive, and user-friendly web interfaces. I enjoy building modern web applications using technologies like HTML, CSS, JavaScript, React.js, and Tailwind CSS. I believe in writing readable code, maintaining UI consistency, and ensuring a smooth user experience across all devices. I'm always eager to learn new tools and improve my skills to deliver better results.
+## 👋 Assalamu Alaikum, i'm Md Mostakim Hosen.
+<p>A passionate Frontend Web Developer from Rajshahi, Bangladesh, with a foundation in the MERN Stack.
+
+💻 Who I Am Professionally:
+As a Frontend Developer, I love working with technologies that bring life to the browser. My strong area is React.js, which I use extensively to create, component-based user interfaces. I pair this with Tailwind CSS, DaisyUI, and JavaScript to make modern, responsive and beautiful interfaces. I have completed 10+ Frontend and MERN-stack projects, demonstrating my problem-solving ability and passion for clean, maintainable code.
+
+📚 My Learning Journey:
+I completed a structured and hands-on MERN-Stack Web Development course from Rajshahi Polytechnic   Institute and Programming Hero, which taught me industry-standard best practices, teamwork, and client-based project work. This course helped me gain real confidence to build production-ready applications.
+
+Even after completing formal training, I never stopped learning. I continue to explore new frameworks, keep up with React ecosystem updates, and study frontend performance optimization, accessibility standards, and responsive design best practices.
+
+I also regularly read documentation, contribute to GitHub, and follow tutorials to keep my skills sharp.
+
+My journey has already started. I actively help friends, batchmates, and juniors with technical guidance, and one day, I hope to step into a classroom to teach with the same passion I code with.
+
+🤝 What I’m Looking For:
+I’m actively looking for opportunities where I can:
+• Work in a collaborative team to build real-world web applications
+• Join as a Frontend Developer Intern or Junior Developer
+• Contribute to open-source projects and learn from experienced engineers
+• Explore remote opportunities that challenge and grow my skills
+
+🧠 My Personality in Work:
+✔️ Fast learner with a growth mindset
+✔️ Love building from scratch as well as improving existing code
+✔️ Curious, creative, and always excited to explore new things
+
+If you're looking for a developer who is technically skilled, a fast learner, a problem solver, and someone who genuinely cares about people and their experiences — I’d love to connect!
+
+🚀 I'm open to remote roles, internships, freelance, and collaborations that challenge me and help me grow.
+📩 Contact Info
+● 📧 Email: mdmostakimhosen35@gmail.com
+● 💬 WhatsApp: wa.me/8801821023369
+● 🌐 Portfolio: https://mostakim-hosen-portfolio.web.app/
+● 💼 LinkedIn: https://github.com/Mostakim69
+
+🙂 Thank you for taking the time to read about me. Let’s connect, collaborate, and grow together!
 
 </p>
 
