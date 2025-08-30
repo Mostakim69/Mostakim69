@@ -1,6 +1,11 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me.....  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostakim69&label=Views&color=0064ff&style=flat-square" alt="mostakim69" /> </p>
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mostakim69/count.svg" />
+</p>
+
 
 <img src="https://i.postimg.cc/bvR5Q4QY/Whats-App-Image-2025-06-26-at-8-36-49-PM.jpg" alt="Banner"  width="100%" height="auto" />
 
