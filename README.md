@@ -3,9 +3,9 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <!-- Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=mostakim69&label=Profile%20Views&color=0e75b6&style=flat" alt="Mostakim69" />
-  <img src="https://profile-counter.glitch.me/mostakim69/count.svg" alt="visitor counter" />
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Mostakim69&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://profile-counter.glitch.me/Mostakim69/count.svg" alt="visitor counter" />
 </p>
 
 
