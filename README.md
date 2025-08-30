@@ -23,6 +23,7 @@ I’m actively looking for opportunities where I can:
 <li> Contribute to open-source projects and learn from experienced engineers </li> 
 <li> Explore remote opportunities that challenge and grow my skills </li> 
 
+</br>
 🧠 My Personality in Work:
 
 ✔️ Fast learner with a growth mindset </br>
@@ -39,7 +40,7 @@ If you're looking for a developer who is technically skilled, a fast learner, a 
 <li> 💬 WhatsApp: wa.me/8801821023369 </li>
 <li> 🌐 Portfolio: https://mostakim-hosen-portfolio.web.app/ </li>
 <li> 💼 LinkedIn: https://www.linkedin.com/in/mostakim-hosen9/ </li>
-
+</br>
 
 🙂 Thank you for taking the time to read about me. Let’s connect, collaborate, and grow together!
 
