@@ -1,9 +1,8 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me.....  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostakim69&label=Views&color=0064ff&style=flat-square" alt="mostakim69" /> </p>
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mostakim69&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Total profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mostakim69&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Mostakim Total Github profile views" />
 </p>
 
 
