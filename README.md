@@ -1,3 +1,6 @@
+<img src="https://i.postimg.cc/bvR5Q4QY/Whats-App-Image-2025-06-26-at-8-36-49-PM.jpg" alt="Banner"  width="100%" height="auto" />
+
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me.....  
 
 ## 👋 Assalamu Alaikum, i'm Md Mostakim Hosen.
@@ -62,7 +65,6 @@ const mostakim = {
 ```
 
 
-<img src="https://i.postimg.cc/bvR5Q4QY/Whats-App-Image-2025-06-26-at-8-36-49-PM.jpg" alt="Banner"  width="100%" height="auto" />
 
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmostakimhosen35@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostakim-hosen9/)
