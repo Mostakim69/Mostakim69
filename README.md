@@ -4,8 +4,8 @@
 <!-- Visitor Counter -->
 <p align="center">
   <!-- Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=Mostakim69&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://profile-counter.glitch.me/Mostakim69/count.svg" alt="visitor counter" />
 </p>
 
 
