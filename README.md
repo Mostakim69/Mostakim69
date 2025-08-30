@@ -23,11 +23,11 @@ I’m actively looking for opportunities where I can:
 <li> Explore remote opportunities that challenge and grow my skills </li> 
 
 🧠 My Personality in Work:
-<ol>
+<ul>
 ✔️ Fast learner with a growth mindset
 ✔️ Love building from scratch as well as improving existing code
 ✔️ Curious, creative, and always excited to explore new things
-</ol>
+</ul>
 
 If you're looking for a developer who is technically skilled, a fast learner, a problem solver, and someone who genuinely cares about people and their experiences — I’d love to connect!
 
