@@ -1,7 +1,9 @@
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me.....  
+
+
 <img src="https://i.postimg.cc/bvR5Q4QY/Whats-App-Image-2025-06-26-at-8-36-49-PM.jpg" alt="Banner"  width="100%" height="auto" />
 
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me.....  
 
 ## 👋 Assalamu Alaikum, i'm Md Mostakim Hosen.
 <p>A passionate Frontend Web Developer from Rajshahi, Bangladesh, with a foundation in the MERN Stack.
