@@ -127,7 +127,7 @@ Every line of code, every animation, and every decision reflects a developer obs
 📦 [Server Code](https://github.com/Mostakim69/TourNest-BD-Server)  
  <br />
 🛠 **Tech Stack:**  
-`React.js` • `TailwindCSS` • `Node.js` • `MongoDB` • `Firebase` • `Vercel` • `Modern UI` • `Stripe` • `Tailwind CSS` • `TanStack Query` • `JWT` • `Framer Motion`
+`React.js` • `JavaScript` • `Node.js` • `MongoDB` • `Firebase` • `Vercel` • `Modern UI` • `Stripe` • `Tailwind CSS` • `TanStack Query` • `JWT` • `Framer Motion`
 
 ![TourNes BD](https://i.postimg.cc/c1FVrTm4/Screenshot-2025-08-30-182451.png)
 
