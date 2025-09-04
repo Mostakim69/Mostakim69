@@ -58,7 +58,7 @@ If you're looking for a developer who is technically skilled, a fast learner, a 
 ```javascript
 const mostakim = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  code: [Javascript, Typescript, HTML, CSS, tailwindCSS, C#, PhP, Python, Java],
   tools: [React, Node, Storybook, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
