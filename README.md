@@ -143,4 +143,14 @@ Every line of code, every animation, and every decision reflects a developer obs
 
 
   ## 💰 You can help me by Donating
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsMoumita/ItsMoumita/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsMoumita/ItsMoumita/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ItsMoumita/ItsMoumita/output/pacman-contribution-graph.svg">
+</picture>
+
+###
   
