@@ -142,7 +142,7 @@ Every line of code, every animation, and every decision reflects a developer obs
   [![Certificate](https://img.shields.io/badge/Certificate-Programming_Hero-0A66C2?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1f6vSO4A6Jmgj0b-zovTTmc7C86uGJU9Y/view?usp=drive_link)
 
 
-  ## 💰 You can help me by Donating
+
 
 ###
 
@@ -154,3 +154,4 @@ Every line of code, every animation, and every decision reflects a developer obs
 
 ###
   
+  ## Thanks for visiting my GitHub 😊🥰 I’d love to connect and collaborate on exciting projects. 
