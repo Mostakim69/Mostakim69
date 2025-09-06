@@ -13,7 +13,7 @@
 <p>A passionate Frontend Web Developer from Rajshahi, Bangladesh, with a foundation in the MERN Stack.
 
 💻 Who I Am Professionally:
-As a Frontend Developer, I love working with technologies that bring life to the browser. My strong area is React.js, which I use extensively to create, component-based user interfaces. I pair this with Tailwind CSS, DaisyUI, and JavaScript to make modern, responsive and beautiful interfaces. I have completed 10+ Frontend and MERN-stack projects, demonstrating my problem-solving ability and passion for clean, maintainable code.
+As a Frontend Developer, I love working with technologies that bring life to the browser. My strong area is React.js, which I use extensively to create, component-based user interfaces. I pair this with Tailwind CSS, Modern UI, and JavaScript to make modern, responsive and beautiful interfaces. I have completed 10+ Frontend and MERN-stack projects, demonstrating my problem-solving ability and passion for clean, maintainable code.
 
 📚 My Learning Journey:
 I completed a structured and hands-on MERN-Stack Web Development course from Rajshahi Polytechnic   Institute and Programming Hero, which taught me industry-standard best practices, teamwork, and client-based project work. This course helped me gain real confidence to build production-ready applications.
